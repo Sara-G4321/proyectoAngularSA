@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 925px;
+    height: 69rem;
+    margin: 5px;
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-abstracto-blanco_23-2148833155.jpg?w=2000");
+    
+}
+
+.card-text{
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}

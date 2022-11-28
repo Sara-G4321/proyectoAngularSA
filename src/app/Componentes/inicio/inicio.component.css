@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 925px;
+    margin: 5px;
+}
+
+.cartas{
+    padding-top: 10px;
+}
+
+#primera{
+    border: 2px solid #8791eb;
+    border-radius: 15px;
+}
+
+#derecha{
+    float: right;
+    border: 2px solid #8791eb;
+    border-radius: 15px;
+}
+
+#izquierda{
+    float: left;
+    border: 2px solid #8791eb;
+    border-radius: 15px;
+}
+
+p{
+    text-align: justify;
+}

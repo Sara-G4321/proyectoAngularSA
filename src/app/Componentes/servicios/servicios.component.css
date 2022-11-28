@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 925px;
+    height: 71rem;
+    margin: 5px;
+    align-items: center;
+    background-image: url("https://us.123rf.com/450wm/zven0/zven01509/zven0150900096/44444658-fondo-blanco-abstracto-con-l%C3%ADneas-suaves.jpg");
+    
+}
+
+h4 {
+    font-style: bold;
+    padding-top: 10px;
+}

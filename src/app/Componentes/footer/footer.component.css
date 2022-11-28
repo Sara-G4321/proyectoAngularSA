@@ -1,0 +1,12 @@
+#footer {
+    height: 40px;
+    text-align: center;
+    margin-right: 5px;
+    margin-left: 5px;
+    background-color: #7ebedf;
+    align-self: flex-end;
+}
+
+p {
+    padding-top: 7px;
+}

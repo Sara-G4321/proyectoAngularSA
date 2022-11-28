@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 925px;
+    height: 71rem;
+    margin: 5px;
+    background-image: url("https://www.todofondos.net/wp-content/uploads/mas-de-67-fondos-de-pantalla-de-fondo-blanco.-fondo-de-pantalla-blancos.jpg");
+}
+
+.card {
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.formulario_contacto {
+    display: flex;
+    flex-direction: column;
+}
+

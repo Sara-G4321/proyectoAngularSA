@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 925px;
+    height: 71rem;
+    margin: 5px;
+    align-items: center;
+    background-image: url("https://media.istockphoto.com/id/1298523613/es/vector/blanco-abstracto-y-gris-claro-onda-moderna-textura-de-lujo-suave-con-suave-y-limpio-vector.jpg?s=612x612&w=0&k=20&c=lzxCh0u3lwG00QvTe6ntC-HUZJrUSbRUmhF3XwATyVc=");
+    
+}
+
+.video{
+    margin: 10px;
+}
